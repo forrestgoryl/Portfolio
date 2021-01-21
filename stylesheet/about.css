@@ -1,0 +1,24 @@
+#body .about {
+    height: 200px;
+    width: 425px;
+    border: 5px solid grey;
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+}
+#body .about h2 {
+    background-image: radial-gradient(grey, rgb(201, 200, 200));
+    height: 35px;
+    vertical-align: top;
+    margin: 0px;
+    font-weight: 100;
+}
+#body .about p {
+    margin: 5px;
+    padding: 12px 0px 0px 0px;
+    vertical-align: center;
+}
+#body .about a {
+    color: black;
+    margin: 5px;
+}

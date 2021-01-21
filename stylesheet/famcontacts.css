@@ -1,0 +1,51 @@
+#body .famContacts {
+    background-color: white;
+    width: 250px;
+    height: 490px;
+    margin: 15px 0px 0px 0px;
+    display: inline-block;
+    vertical-align: top;
+}
+#body .famContacts h2 {
+    background-image: radial-gradient(grey, rgb(201, 200, 200));
+    height: 35px;
+    vertical-align: top;
+    text-align: left;
+    margin: 0px;
+    padding: 5px 0px 0px 5px;
+    font-weight: 100;
+}
+#wrapper #body .famContactsText img {
+    display: inline-block;
+    width: 250px;
+    height: 120px;
+    padding: 0px;
+    margin: 0px;
+    vertical-align: top;
+    border: none;
+}
+#body .famContactsText p {
+    padding: 0px 5px 0px 5px;
+    text-align: justify;
+}
+#body .famContacts img {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    padding: 0px 0px 0px 5px;
+    margin: 3px;
+    border: none;
+}
+#body .famContacts a {
+    display: block;
+    text-align: center;
+    width: 110px;
+    border: 2px solid black;
+    margin: 10px;
+    margin-left: 60px;
+    padding: 2px;
+    background-color: rgb(76, 128, 76);
+    font-size: +3;
+    text-decoration: none;
+    color: white;
+}
